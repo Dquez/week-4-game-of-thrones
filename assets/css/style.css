@@ -1,0 +1,32 @@
+.crystal-image {
+  height:100px;
+  width:100px;
+  float:left;
+	clear:right;
+  margin-right: 1em;
+}
+
+.current-health {
+	position:relative;
+	left:2em;
+	float:left;
+	clear:both;
+
+}
+
+.crystals {
+	float:left;
+}
+
+#char-info, #enemies-to-attack {
+  float:left;
+  clear:both;
+}
+
+#fight-section {
+  clear:both;
+}
+
+#your-attack {
+	visibility: hidden;
+}
